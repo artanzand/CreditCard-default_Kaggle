@@ -9,7 +9,7 @@ I will be implementing supervised machine learning on the Default of Credit Card
 `Exploratory Data Analysis`, `Preprocessing`, `Feature Engineering`, `Feature Selection`, `Hyperparameter Optimization`, `Interpretation and feature importance`, `Ensembles`
 
 ### Tools and Model
-`ScikitLearn`, `pandas`, `Altair`, `SHAP`, `eli5`, `VotingClassifier`, `StackingClassifier`, `CatBoostClassifier`, `LGBMClassifier`, `Random Forest`, `MultinomialNB`, `Lasso`, `Suppor Vector Machine (SVC)`, `CountVectorizer`, `RandomizedSearchCV`, `RFECV`, `cross_validate`, `pipeline`, `column_transformer`, `SelectFromModel`, `OneHotEncoder`, `StandardScaler`, `classification_report`, `recall_score`, `f1_score`, `precision_score`, `roc_auc_score`
+`ScikitLearn`, `pandas`, `Altair`, `SHAP`, `eli5`, `VotingClassifier`, `StackingClassifier`, `CatBoostClassifier`, `LGBMClassifier`, `Random Forest`, `Lasso`, `Support Vector Machine (SVC)`, `CountVectorizer`, `RandomizedSearchCV`, `RFECV`, `cross_validate`, `pipeline`, `column_transformer`, `SelectFromModel`, `OneHotEncoder`, `StandardScaler`, `classification_report`, `recall_score`, `f1_score`, `precision_score`, `accuracy_score`
 
 <br>
 
