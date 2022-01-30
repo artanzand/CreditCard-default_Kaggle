@@ -1,4 +1,4 @@
-# Airbnb NYC - Kaggle Classification project
+# CreditCard default - Kaggle Classification project
 The intention of this mini project is to explore the data, engineer new features, do the preprocessing, perform feature selection, build the optimized model and score it on the test data under 8 hours. I will record my lessons learned and what I could have done better for future projects at the end of the notebook.
 
 I will be implementing supervised machine learning on the Default of Credit Card Clients [dataset](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset) from Kaggle using ensemble models alongwith feature engineering and model selection. For this I will be using cleaned data acquired from Kaggle while walking through my analysis in an `.ipynb` file. Details about the dataset is provided in the notebook and below I will mention the machine learning techniques I will be using in this project.
